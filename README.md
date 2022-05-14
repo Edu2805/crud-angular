@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Views
-<p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/frontend/src/assets/img/tela_inicial.png" title="Readme"/></p>
+<p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/tela_inicial.png" title="Readme"/></p>
 
 ## Code scaffolding
 
