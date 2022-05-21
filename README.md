@@ -1,4 +1,4 @@
-# Frontend - Project under development 🚧
+# Frontend - 🚧 Project under development 🚧
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
@@ -13,6 +13,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 <p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/formulario.png" title="Readme"/></p>
 
 <p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/toastAviso.png" title="Readme"/></p>
+
+## Data persisted in backend
+<p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/backend.png" title="Readme"/></p>
 
 ## Code scaffolding
 
