@@ -3,7 +3,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` into frontend folder for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files. Performing this step you will be running the front end.
+
+To persist the data, you will need to run the back end. Run `ng serve` into backend folder for a dev server. The application will automatically reload.
 
 ## Views
 <p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/tela_inicial.png" title="Readme"/></p>
