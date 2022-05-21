@@ -8,6 +8,12 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Views
 <p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/tela_inicial.png" title="Readme"/></p>
 
+<p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/botaoNovoProduto.png" title="Readme"/></p>
+
+<p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/formulario.png" title="Readme"/></p>
+
+<p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/toastAviso.png" title="Readme"/></p>
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
