@@ -8,6 +8,9 @@ Run `ng serve` into frontend folder for a dev server. Navigate to `http://localh
 To persist the data, you will need to run the back end. Run `ng serve` into backend folder for a dev server. The application will automatically reload.
 
 ## Views
+
+<p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/Crud-Angular.gif" title="Readme"/></p>
+
 <p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/tela_inicial.png" title="Readme"/></p>
 
 <p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/botaoNovoProduto.png" title="Readme"/></p>
@@ -15,6 +18,10 @@ To persist the data, you will need to run the back end. Run `ng serve` into back
 <p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/formulario.png" title="Readme"/></p>
 
 <p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/table.png" title="Readme"/></p>
+
+<p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/alterar.png" title="Readme"/></p>
+
+<p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/excluir.png" title="Readme"/></p>
 
 <p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/toastAviso.png" title="Readme"/></p>
 

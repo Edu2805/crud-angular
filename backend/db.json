@@ -3,12 +3,12 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "9.90"
     },
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12000.89
+      "price": "11000.89"
     },
     {
       "id": 3,
@@ -16,14 +16,19 @@
       "price": 5000.89
     },
     {
-      "name": "Celular Motorola",
-      "price": "2999.99",
+      "name": "Celular Motorola Plus +",
+      "price": "2599.99",
       "id": 4
     },
     {
-      "name": "Fone de ouvido JBL",
-      "price": "300.00",
+      "name": "Copo Staley",
+      "price": "1200.00",
       "id": 5
+    },
+    {
+      "name": "Jaqueta jeans",
+      "price": "240.00",
+      "id": 6
     }
   ]
 }

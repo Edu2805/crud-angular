@@ -19,6 +19,8 @@ export class ProductCreateComponent implements OnInit {
     private router: Router) { }
 
   ngOnInit(): void {
+    // TODO document why this method 'ngOnInit' is empty
+  
   }
 
   createProduct(): void {
