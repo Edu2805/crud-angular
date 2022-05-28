@@ -14,6 +14,8 @@ To persist the data, you will need to run the back end. Run `ng serve` into back
 
 <p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/formulario.png" title="Readme"/></p>
 
+<p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/table.png" title="Readme"/></p>
+
 <p align="center"><img src="https://github.com/Edu2805/crud-angular/blob/main/frontend/src/assets/img/toastAviso.png" title="Readme"/></p>
 
 ## Data persisted in backend

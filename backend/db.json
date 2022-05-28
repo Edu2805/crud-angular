@@ -19,6 +19,11 @@
       "name": "Celular Motorola",
       "price": "2999.99",
       "id": 4
+    },
+    {
+      "name": "Fone de ouvido JBL",
+      "price": "300.00",
+      "id": 5
     }
   ]
 }
